@@ -33,7 +33,7 @@ Example data using data from Mavenanalytics "Hospital Patient Records".
   ```
 
 ## Preview Sample DAG: ##
-<img width="1083" alt="Screenshot 2024-11-17 at 06 09 01" src="https://github.com/user-attachments/assets/0418ae4f-827b-402d-b1a1-9b834a4a8c2e">
-<img width="488" alt="Screenshot 2024-11-17 at 06 09 16" src="https://github.com/user-attachments/assets/5d12c31c-2afe-4c94-9c83-9329d11da368">
+<img width="1083" alt="Screenshot 2024-11-17 at 06 09 01" src="https://github.com/user-attachments/assets/6aba1b2b-88d2-4f2c-9bff-69b4ee4bad40">
+<img width="488" alt="Screenshot 2024-11-17 at 06 09 16" src="https://github.com/user-attachments/assets/a2d4c024-ee66-48a4-bf0d-334df4aa9a2d">
 
 You can article for this in medium [here](https://medium.com/@sweetkobem/creating-an-airflow-dag-generator-using-yaml-files-and-a-sample-transformation-with-duckdb-008b3f7c1e1d)
